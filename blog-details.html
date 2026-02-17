@@ -1,17 +1,15 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-  <!-- Mirrored from gico.io/wowhair/blog-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Sep 2025 06:18:49 GMT -->
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="DHEERAJ YADAV, CREATIVE DIRECTOR" />
+    <meta name="description" content="Frenyz Salon Blog" />
     <meta name="keywords" content="beauty salon, salon, unisex salon" />
     <meta name="author" content="Dheeraj Yadav, Creative Director" />
-
     <meta property="og:title" content="FRENYZ SALON" />
+    <title id="page-title">Frenyz Salon – Blog</title>
 
-    <!-- Favicon -->
     <link
       href="images/favicon/favicon-32x32.png"
       rel="shortcut icon"
@@ -22,57 +20,34 @@
       rel="icon"
       type="image/png"
     />
-
-    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&amp;display=swap"
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&amp;display=swap"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
       rel="stylesheet"
     />
-
-    <!-- Bootstrap CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
-    <!-- font-awesome CSS -->
     <link href="css/font-awesome.min.css" rel="stylesheet" />
-    <!-- stellarnav.min CSS -->
     <link href="css/stellarnav.min.css" rel="stylesheet" />
-    <!-- aos CSS -->
     <link href="css/aos.css" rel="stylesheet" />
-    <!-- flashy.min CSS -->
     <link href="css/flashy.min.css" rel="stylesheet" />
-    <!-- owl CSS -->
     <link href="css/owl.css" rel="stylesheet" />
-    <!-- jarallax CSS -->
     <link href="css/jarallax.css" rel="stylesheet" />
-    <!-- isotop CSS -->
     <link href="css/isotop.css" rel="stylesheet" />
-    <!-- pogo-slider.min CSS -->
     <link href="css/pogo-slider.min.css" rel="stylesheet" />
-
-    <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet" />
-
-    <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet" />
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
 
   <body>
-    <!-- Preloader start -->
+    <!-- Preloader -->
     <div id="preloader"></div>
 
-    <!-- Header Start -->
+    <!-- Header -->
     <header class="header-area">
       <div class="header-menu sticky">
         <div class="container">
@@ -102,14 +77,13 @@
                   <li><a href="index.html#team">Our Team</a></li>
                   <li><a href="index.html#academy">Academy</a></li>
                   <li><a href="blog.html">Blogs</a></li>
-                  <!-- <li><a href="#">Gift Cards</a></li> -->
-                  <!-- <li><a href="#connect">Become Our Partner</a></li> -->
                   <li>
                     <a
                       href="tel:+91 8560024060"
                       class="btn btn-primary theme-btn pt-2 pb-2"
-                      ><i class="fa-solid fa-phone"> </i
-                    ></a>
+                    >
+                      <i class="fa-solid fa-phone"></i>
+                    </a>
                   </li>
                   <li>
                     <a
@@ -119,9 +93,8 @@
                       role="button"
                     >
                       Appointment
-                      <small>
-                        <i class="fa-solid fa-calendar-check"> </i> </small
-                    ></a>
+                      <small><i class="fa-solid fa-calendar-check"></i></small>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -131,7 +104,7 @@
       </div>
     </header>
 
-    <!-- Pagename Start -->
+    <!-- Page Title -->
     <section
       class="pagename-area jarallax background-image"
       data-src="images/bg/1.jpg"
@@ -141,11 +114,13 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="pagename-col">
-              <h2>blog details</h2>
+              <h2>Blog Details</h2>
               <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><i class="fa-solid fa-arrow-right-long"></i></li>
-                <li>blog details</li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><i class="fa-solid fa-arrow-right-long"></i></li>
+                <li>Details</li>
               </ul>
             </div>
           </div>
@@ -153,186 +128,95 @@
       </div>
     </section>
 
-    <!-- Blog Start -->
+    <!-- Blog Detail Content -->
     <section class="blog-area blog-two-area blog-details-area">
       <div class="container">
         <div class="row">
-          <div>
-            <div class="blog-details-col">
+          <div class="col-12">
+            <!-- Not found message (hidden by default) -->
+            <div
+              id="blog-not-found"
+              style="display: none; text-align: center; padding: 60px 0"
+            >
+              <h3>Blog post not found.</h3>
+              <a href="blog.html" class="btn btn-primary theme-btn mt-3"
+                >← Back to Blogs</a
+              >
+            </div>
+
+            <!-- Blog content (shown when found) -->
+            <div
+              id="blog-details-col"
+              class="blog-details-col"
+              style="display: none"
+            >
+              <!-- Image -->
               <div class="blog-col">
                 <div style="text-align: center">
-                  <img
-                    src="./images/blog/f1.webp"
-                    alt=""
-                    class="img-blog-fluid"
-                  />
+                  <img id="blog-image" src="" alt="" class="img-blog-fluid" />
                 </div>
-                <br />
-                <br />
+                <br /><br />
+
+                <!-- Tags -->
                 <div class="sidebar-box popular-tags">
-                  <div class="sidebar-title">
-                    <h4>popular tags</h4>
-                  </div>
-                  <ul>
-                    <li><a href="#">Hair</a></li>
-                    <li><a href="#">Makeup</a></li>
-                    <li><a href="#">Skin</a></li>
-                    <li><a href="#">Nails & Tattoos</a></li>
-                    <li><a href="#">Academy</a></li>
-                  </ul>
+                  <div class="sidebar-title"><h4>Popular Tags</h4></div>
+                  <ul id="blog-tags"></ul>
                 </div>
+
+                <!-- Date -->
                 <div class="blog-content">
                   <div class="blog-details-infobar">
                     <ul>
                       <li>
                         <a href="#"
-                          ><i class="fa-solid fa-calendar-days"></i> 01 Aug,
-                          2022</a
-                        >
+                          ><i class="fa-solid fa-calendar-days"></i>
+                          <span id="blog-date"></span
+                        ></a>
                       </li>
                     </ul>
                   </div>
                 </div>
               </div>
+
+              <!-- Text content -->
               <div class="blog-text">
-                <h2>
-                  Frenyz: The Best Hair & Beauty Salon in Vadodara - Your Go-To
-                  Beauty Parlour & Hair Cut Experts
-                </h2>
-                <p>
-                  Finding the perfect salon in Vadodara can feel overwhelming.
-                  With so many beauty parlours in Baroda, how do you decide
-                  which one truly delivers the best results? Whether you’re
-                  searching for a
-                  <strong>“beauty parlour near me in Vadodara”</strong> or the
-                  <strong>best hair cut salon in Baroda</strong>, one name
-                  consistently stands out – <strong>Frenyz</strong>.
-                </p>
-                <p>
-                  At Frenyz, we combine luxury, comfort, and expert styling to
-                  create a salon experience that’s as unique as you are.
-                </p>
+                <h1 id="blog-title"></h1>
+                <div id="blog-body"></div>
 
-                <h3 class="mt-5">Why Choose Frenyz Salon in Vadodara?</h3>
-                <p>
-                  When it comes to your hair and skin, you shouldn’t settle for
-                  less. Here’s why Frenyz is considered one of the best hair
-                  salons in Vadodara:
-                </p>
-
-                <ol>
-                  <li class="list-group-item">
-                    <h5>Expert Stylists & Beauty Professionals</h5>
-                    <p>
-                      Our trained professionals specialize in the latest global
-                      hair and beauty trends, ensuring you always leave with a
-                      fresh, flawless look.
-                    </p>
-                  </li>
-                  <li class="list-group-item">
-                    <h5>Premium Haircuts & Styling</h5>
-                    <p>
-                      If you’re looking for the best hair cut in Vadodara,
-                      Frenyz is the go-to spot. From precision cuts to trendy
-                      styles, we know how to bring out the best in your hair.
-                    </p>
-                  </li>
-                  <li class="list-group-item">
-                    <h5>Wide Range of Beauty Services</h5>
-                    <p>
-                      Beyond haircuts, Frenyz is also a full-fledged beauty
-                      parlour in Vadodara offering skincare treatments, makeup,
-                      spa therapies, and grooming services for both men and
-                      women.
-                    </p>
-                  </li>
-                  <li class="list-group-item">
-                    <h5>Relaxing & Hygienic Environment</h5>
-                    <p>
-                      Cleanliness, comfort, and luxury define the Frenyz
-                      experience. Every visit feels safe, rejuvenating, and
-                      indulgent.
-                    </p>
-                  </li>
-                </ol>
-
-                <h3 class="mt-5">
-                  Best Hair Cut Salon in Vadodara - Tailored to Your Style
-                </h3>
-                <p>
-                  Your hair is your crown, and at Frenyz, we treat it like one.
-                  Whether you want a sleek corporate look, a glamorous party
-                  style, or a casual everyday cut, our stylists personalize
-                  every haircut to suit your face shape, lifestyle, and
-                  personality.
-                </p>
-                <p>
-                  That’s why we are known as the best hair salon in Baroda –
-                  because we don’t just cut hair, we style confidence.
-                </p>
-
-                <div>
-                  <h3 class="mt-5">
-                    Beauty Parlour Services Near You in Vadodara
-                  </h3>
-                  <p>
-                    Searching for a
-                    <strong>“beauty parlour near me in Vadodara”</strong>?
-                    Frenyz is centrally located, making it convenient for
-                    clients across the city. Our services include:
-                  </p>
-                  <ul class="mb-4">
-                    <li>Haircuts, colouring & styling</li>
-                    <li>Bridal & party makeup</li>
-                    <li>Facials & skincare treatments</li>
-                    <li>Manicure & pedicure</li>
-                    <li>Relaxing spa therapies</li>
-                  </ul>
-
-                  <h3 class="mt-5">Frenyz - Where Beauty Meets Expertise</h3>
-                  <p>
-                    Whether you’re preparing for a special event, refreshing
-                    your look, or simply indulging in some self-care, Frenyz
-                    ensures you always look and feel your best. As a trusted
-                    salon in Vadodara, we blend artistry with care, making us
-                    the preferred choice for thousands of happy clients.
-                  </p>
-                  <!-- <p>
-                  <i class="fa-solid fa-quote-left"></i>Lorem ipsum dolor sit
-                  amet consectetur adipisicing elit. Autem quis deleniti,
-                  aliquid et hic maxime sint dignissimos eaque incidunt
-                  asperiores impedit animi fugit, debitis. Iste.
-                  <i class="fa-solid fa-quote-right"></i>
-                </p> -->
-                </div>
-                <div class="imgbox">
-                  <div>
-                    <div>
-                      <h4>Book Your Appointment Today</h4>
-                      <p>
-                        Stop searching for the best hair salon in Baroda or the
-                        top beauty parlour in Vadodara – you’ve already found
-                        it. Visit Frenyz Salon today and experience the
-                        difference for yourself.
-                      </p>
-                      <p>
-                        <em>
-                          Because beauty isn’t just about how you look, it’s
-                          about how you feel – and at Frenyz, we make sure you
-                          feel incredible.
-                        </em>
-                      </p>
-                    </div>
+                <!-- Back to blog + Prev / Next navigation -->
+                <div
+                  class="d-flex justify-content-between align-items-center flex-wrap mt-4"
+                  style="gap: 12px"
+                >
+                  <a href="blog.html" class="btn btn-primary theme-btn"
+                    >← All Blogs</a
+                  >
+                  <div style="display: flex; gap: 10px">
+                    <a
+                      id="btn-prev"
+                      href="#"
+                      class="btn btn-primary theme-btn"
+                      style="display: none"
+                      >‹ Previous</a
+                    >
+                    <a
+                      id="btn-next"
+                      href="#"
+                      class="btn btn-primary theme-btn"
+                      style="display: none"
+                      >Next ›</a
+                    >
                   </div>
                 </div>
               </div>
             </div>
+            <!-- end blog-details-col -->
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Footer Start -->
+    <!-- Footer -->
     <section class="footer-area">
       <div class="container">
         <div class="row">
@@ -345,8 +229,9 @@
                   href="https://wa.me/918560024060"
                   target="_blank"
                   role="button"
-                  >Chat With Us &nbsp; <i class="fa-brands fa-whatsapp"></i
-                ></a>
+                >
+                  Chat With Us &nbsp; <i class="fa-brands fa-whatsapp"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -387,10 +272,7 @@
                 <li><a href="index.html#team">Our Team</a></li>
                 <li><a href="index.html#academy">Academy</a></li>
                 <li><a href="blog.html">Blogs</a></li>
-                <!-- <li><a href="#offers">Packages & Offers</a></li> -->
                 <li><a href="index.html#connect">Become Our Partner</a></li>
-
-                <!-- <li><a href="#connect">Contact</a></li> -->
               </ul>
             </div>
           </div>
@@ -459,23 +341,9 @@
       ><i class="fa-solid fa-up-long"></i
     ></a>
 
-    <!-- <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-
-                </div>
-            </div>
-        </div>  
-    </section> -->
-
-    <!-- jQuery -->
+    <!-- JS -->
     <script src="js/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
-
-    <!-- All Included JavaScript -->
     <script src="js/stellarnav.min.js"></script>
     <script src="js/jquery.pogo-slider.min.js"></script>
     <script src="js/aos.js"></script>
@@ -487,10 +355,62 @@
     <script src="js/isotope.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.countup.min.js"></script>
-
-    <!-- Custom Js -->
     <script src="js/main.js"></script>
-  </body>
 
-  <!-- Mirrored from gico.io/wowhair/blog-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Sep 2025 06:18:49 GMT -->
+    <!-- Load blog data -->
+    <script src="js/blog.js?v=1"></script>
+
+    <!-- Render single blog dynamically -->
+    <script>
+      // Read ?id=XX from URL
+      const params = new URLSearchParams(window.location.search);
+      const blogId = parseInt(params.get("id"), 10);
+      const index = BLOGS.findIndex((b) => b.id === blogId);
+      const blog = BLOGS[index];
+
+      if (!blog) {
+        document.getElementById("blog-not-found").style.display = "block";
+      } else {
+        // Populate page title
+        document.getElementById("page-title").textContent =
+          blog.title + " – Frenyz Salon";
+
+        // Populate content
+        document.getElementById("blog-image").src = blog.image;
+        document.getElementById("blog-image").alt = blog.title;
+        document.getElementById("blog-date").textContent = blog.date;
+        document.getElementById("blog-title").textContent = blog.title;
+        document.getElementById("blog-body").innerHTML = blog.content;
+
+        // Tags
+        const tagsList = document.getElementById("blog-tags");
+        tagsList.innerHTML = blog.tags
+          .map(
+            (t) =>
+              `<li><a href="blog.html?q=${encodeURIComponent(t)}">${t}</a></li>`,
+          )
+          .join("");
+
+        // Prev / Next navigation
+        const prevBlog = BLOGS[index - 1];
+        const nextBlog = BLOGS[index + 1];
+
+        if (prevBlog) {
+          const btnPrev = document.getElementById("btn-prev");
+          btnPrev.style.display = "inline-block";
+          btnPrev.href = "blog-details.html?id=" + prevBlog.id;
+          btnPrev.title = prevBlog.title;
+        }
+        if (nextBlog) {
+          const btnNext = document.getElementById("btn-next");
+          btnNext.style.display = "inline-block";
+          btnNext.href = "blog-details.html?id=" + nextBlog.id;
+          btnNext.title = nextBlog.title;
+        }
+
+        // Show content
+        document.getElementById("blog-details-col").style.display = "block";
+      }
+    </script>
+  </body>
 </html>
