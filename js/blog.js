@@ -143,9 +143,8 @@ If you’re searching for a <strong>men’s haircut and beard styling salon in V
 With expert stylists, premium grooming services, and a client-focused approach, <strong>Frenyz Salon Vadodara</strong> stands out as a trusted destination for men who value style, precision, and quality grooming.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 49,
     date: "25 Feb, 2026",
@@ -309,9 +308,8 @@ If you’re searching for a <strong>luxury beauty salon in Vadodara for premium 
 With its expert team, premium services, and elegant atmosphere, <strong>Frenyz Salon Vadodara</strong> offers a luxury beauty experience that helps you look and feel your absolute best—every single visit.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 48,
     date: "23 Feb, 2026",
@@ -470,9 +468,8 @@ If you’re searching for a <strong>skin care salon in Vadodara for glow and rej
 With expert therapists, premium products, and a client-first approach, <strong>Frenyz Salon Vadodara</strong> stands out as a trusted destination for skin care solutions that truly make a difference.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 47,
     date: "21 Feb, 2026",
@@ -615,10 +612,9 @@ If you’re searching for a <strong>party makeup artist in Vadodara near me</str
 With skilled makeup artists, premium products, and a client-focused approach, <strong>Frenyz Salon Vadodara</strong> is the perfect place to get party-ready and shine at every celebration.
 </p>
 
-  `
-  }
-
-  , {
+  `,
+  },
+  {
     id: 46,
     date: "18 Feb, 2026",
     image: "./images/blog/46.webp",
@@ -771,10 +767,8 @@ If you’re searching for a <strong>hair coloring salon in Vadodara</strong> for
 With expert colorists, modern techniques, and a strong focus on hair health, <strong>Frenyz Salon Vadodara</strong> is a trusted destination for stylish, safe, and beautiful hair color transformations.
 </p>
 
-  `
-  }
-
-  ,
+  `,
+  },
   {
     id: 45,
     date: "12 Feb, 2026",
@@ -935,10 +929,8 @@ If you’re searching for a <strong>men’s grooming salon near me in Vadodara</
 With expert grooming services, modern styling techniques, and a client-first approach, <strong>Frenyz Salon Vadodara</strong> stands out as a trusted destination for men who want to look their best, every day.
 </p>
 
-  `
-  }
-
-  ,
+  `,
+  },
   {
     id: 44,
     date: "10 Feb, 2026",
@@ -1078,9 +1070,8 @@ If you’re searching for the <strong>best salon near me in Vadodara</strong>, c
 With professional care, modern services, and a client-first approach, <strong>Frenyz Salon Vadodara</strong> stands out as a trusted destination for complete hair and beauty services. Book your appointment and experience the difference of a salon that truly cares about you.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 43,
     date: "08 Feb, 2026",
@@ -1216,9 +1207,8 @@ If you’re searching for the <strong>best facial & skin treatment near me in Va
 With experienced therapists, premium products, and a client-first approach, <strong>Frenyz Salon Vadodara</strong> offers skin treatments that leave you refreshed, confident, and glowing—inside and out.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 42,
     date: "05 Feb, 2026",
@@ -1353,9 +1343,8 @@ If you’re searching for the best salon for bridal makeup in Vadodara, focus on
 With professional artists, premium products, and a bride-focused approach, <strong>Frenyz Salon Vadodara</strong> ensures your wedding makeup is everything you dreamed of and more.
 </p>
 
-  `
-  }
-  ,
+  `,
+  },
   {
     id: 41,
     date: "02 Feb, 2026",
@@ -1494,13 +1483,8 @@ If you’re searching for the <strong>best haircut salon near me in Vadodara</st
 Book your next haircut with confidence and step out with a style that truly represents you.
 </p>
 
-  `
-  }
-  ,
-
-
-
-
+  `,
+  },
   {
     id: 40,
     date: "31 Jan, 2026",
@@ -1651,10 +1635,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With easy scheduling, expert services, and a client-first approach, Frenyz Salon Vadodara makes online salon booking effortless—so you can focus on looking and feeling your best, without the wait or worry.
 </p>
 
-  `
-  }
-  ,
-
+  `,
+  },
   {
     id: 39,
     date: "28 Jan, 2026",
@@ -1794,9 +1776,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert professionals, premium services, and a client-first approach, Frenyz Salon Vadodara stands out as a trusted destination for complete hair and beauty care—helping you look polished, confident, and refreshed every single day.
 </p>
 
-  `
+  `,
   },
-
   {
     id: 38,
     date: "24 Jan, 2026",
@@ -1961,7 +1942,7 @@ Book your next haircut with confidence and step out with a style that truly repr
   With customised packages, premium services, and professional expertise, Frenyz Salon Vadodara stands out as a trusted destination for grooming packages that deliver real value, comfort, and confidence—every single visit.
 </p>
 
-  `
+  `,
   },
   {
     id: 37,
@@ -2108,7 +2089,7 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert stylists, premium products, and a client-focused approach, Frenyz Salon Vadodara stands out as a trusted destination for men who want sharp, stylish, and confident hair—every single time.
 </p>
 
-  `
+  `,
   },
   {
     id: 36,
@@ -2263,16 +2244,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert care, fair pricing, and a client-first approach, Frenyz Salon Vadodara proves that you don’t have to choose between quality and affordability—you can have both, every time you step in.
 </p>
 
-  `
+  `,
   },
-
-
-
-
-
-
-
-
   {
     id: 35,
     date: "15 Jan, 2026",
@@ -2452,9 +2425,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert care, the right timing, and professional support, you can enjoy every event knowing you look your absolute best—from the first photo to the last dance.
 </p>
 
-  `
+  `,
   },
-
   {
     id: 34,
     date: "12 Jan, 2026",
@@ -2569,7 +2541,7 @@ Book your next haircut with confidence and step out with a style that truly repr
   By combining professional services with smart home care, you get the best of both worlds: long-lasting results and everyday confidence.
 </p>
 
-  `
+  `,
   },
   {
     id: 33,
@@ -2725,10 +2697,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With experienced therapists, premium products, and a client-focused approach, Frenyz Salon Vadodara stands out as a trusted solution for acne and pigmentation concerns—helping you achieve clearer, healthier-looking skin over time.
 </p>
 
-  `
+  `,
   },
-
-
   {
     id: 32,
     date: "04 Jan, 2026",
@@ -2894,9 +2864,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert makeup artists, premium products, and personalised care, Frenyz Salon Vadodara stands out as a trusted choice for brides who want to look effortlessly beautiful throughout their entire wedding journey.
 </p>
 
-  `
+  `,
   },
-
   {
     id: 31,
     date: "01 Jan, 2026",
@@ -3048,16 +3017,8 @@ Book your next haircut with confidence and step out with a style that truly repr
   With expert stylists, personalised care, and professional techniques, Frenyz Salon Vadodara stands out as a trusted destination for those looking to work with skilled hairstylists who truly understand style, precision, and hair health.
 </p>
 
-  `
+  `,
   },
-
-
-
-
-
-
-
-
   {
     id: 30,
     date: "31 Dec, 2025",
@@ -3135,7 +3096,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   the best salon in Vadodara — where transformation feels as
                   good as it looks.
                 </p>
-    `
+    `,
   },
   {
     id: 29,
@@ -3224,7 +3185,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   why Frenyz is the salon Vadodara trusts to make every haircut
                   and style truly shine.
                 </p>
-    `
+    `,
   },
   {
     id: 28,
@@ -3306,13 +3267,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   where passion, style, and beauty come together to create
                   magic.
                 </p>
-    `
+    `,
   },
   {
     id: 27,
     date: "22 Dec, 2025",
     image: "./images/blog/27.webp",
-    title: "Top Hair Salon in Baroda – Discover the Signature Frenyz Experience",
+    title:
+      "Top Hair Salon in Baroda – Discover the Signature Frenyz Experience",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
        <p>
@@ -3390,13 +3352,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   experience the signature Frenyz touch — because your hair
                   deserves nothing but the best.
                 </p>
-    `
+    `,
   },
   {
     id: 26,
     date: "19 Dec, 2025",
     image: "./images/blog/26.webp",
-    title: "Frenyz Salon Vadodara – Professional Hair, Makeup & Skincare Experts",
+    title:
+      "Frenyz Salon Vadodara – Professional Hair, Makeup & Skincare Experts",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
      <p>
@@ -3476,13 +3439,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   trusted destination for professional hair, makeup, and
                   skincare.
                 </p>
-    `
+    `,
   },
   {
     id: 25,
     date: "15 Dec, 2025",
     image: "./images/blog/25.webp",
-    title: "Baroda's Favorite Hair Salon – Experience the Frenyz Makeover Magic",
+    title:
+      "Baroda's Favorite Hair Salon – Experience the Frenyz Makeover Magic",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>
@@ -3559,7 +3523,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   transformation that will make you fall in love with your
                   reflection every time.
                 </p>
-    `
+    `,
   },
   {
     id: 24,
@@ -3639,7 +3603,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   the art of glamour — because at Frenyz, every visit is a
                   celebration of beauty and confidence.
                 </p>
-    `
+    `,
   },
   {
     id: 23,
@@ -3722,13 +3686,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   <strong>Frenyz Beauty Parlour Vadodara</strong>, where hair
                   and confidence meet.
                 </p>
-    `
+    `,
   },
   {
     id: 22,
     date: "04 Dec, 2025",
     image: "./images/blog/22.webp",
-    title: "Where Style Begins – Frenyz Hair Salon in Baroda's Fashion District",
+    title:
+      "Where Style Begins – Frenyz Hair Salon in Baroda's Fashion District",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
         <p>
@@ -3823,7 +3788,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   confident. Book your appointment today and discover why Frenyz
                   is where Baroda’s style begins.
                 </p>
-    `
+    `,
   },
   {
     id: 21,
@@ -3914,13 +3879,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   radiant. Book your appointment today and experience the art of
                   beauty where style meets perfection.
                 </p>
-    `
+    `,
   },
   {
     id: 20,
     date: "30 Nov, 2025",
     image: "./images/blog/20.webp",
-    title: "Frenyz – Top Beauty Parlour in Vadodara for Haircuts & Makeup Looks",
+    title:
+      "Frenyz – Top Beauty Parlour in Vadodara for Haircuts & Makeup Looks",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
 
@@ -4044,13 +4010,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   let our stylists and makeup artists enhance your beauty and
                   style.
                 </p>
-    `
+    `,
   },
   {
     id: 19,
     date: "28 Nov, 2025",
     image: "./images/blog/19.webp",
-    title: "Get the Best Haircut in Baroda – Trusted Salon for Style & Perfection",
+    title:
+      "Get the Best Haircut in Baroda – Trusted Salon for Style & Perfection",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
    <p>
@@ -4166,13 +4133,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   Visit Frenyz Salon Baroda today and achieve the perfect
                   haircut with style and perfection.
                 </p>
-    `
+    `,
   },
   {
     id: 18,
     date: "24 Nov, 2025",
     image: "./images/blog/18.webp",
-    title: "Frenyz: Luxury Hair Salon in Vadodara Redefining Hair & Beauty Trends",
+    title:
+      "Frenyz: Luxury Hair Salon in Vadodara Redefining Hair & Beauty Trends",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
        <p>
@@ -4298,13 +4266,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                     and experience true luxury and transformation.</strong
                   >
                 </p>
-    `
+    `,
   },
   {
     id: 17,
     date: "21 Nov, 2025",
     image: "./images/blog/17.webp",
-    title: "Baroda's Best Hair & Beauty Parlour – Expert Stylists at Frenyz Salon",
+    title:
+      "Baroda's Best Hair & Beauty Parlour – Expert Stylists at Frenyz Salon",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
    
@@ -4409,13 +4378,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                     today!</strong
                   >
                 </p>
-    `
+    `,
   },
   {
     id: 16,
     date: "18 Nov, 2025",
     image: "./images/blog/16.webp",
-    title: "Your Go-To Beauty Salon in Vadodara – Relaxing Hair & Skin Care by Frenyz",
+    title:
+      "Your Go-To Beauty Salon in Vadodara – Relaxing Hair & Skin Care by Frenyz",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
    <p>
@@ -4538,7 +4508,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   experience that leaves you looking radiant and feeling
                   confident.
                 </p>
-    `
+    `,
   },
   {
     id: 15,
@@ -4673,7 +4643,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   appointment today and discover how style meets perfection with
                   every haircut.
                 </p>
-    `
+    `,
   },
   {
     id: 14,
@@ -4799,13 +4769,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   appointment today and discover your perfect hairstyle with our
                   expert team.
                 </p>
-    `
+    `,
   },
   {
     id: 13,
     date: "09 Nov, 2025",
     image: "./images/blog/13.webp",
-    title: "Top Beauty Parlour Near Me in Vadodara – Gorgeous Hair & Skin by Frenyz",
+    title:
+      "Top Beauty Parlour Near Me in Vadodara – Gorgeous Hair & Skin by Frenyz",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
        <p>
@@ -4921,13 +4892,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   appointment today and transform your hair and skin with
                   professional care and luxury services.
                 </p>
-    `
+    `,
   },
   {
     id: 12,
     date: "05 Nov, 2025",
     image: "./images/blog/12.webp",
-    title: "Best Hair Cut Salon in Vadodara – Trendy Styles & Expert Care at Frenyz",
+    title:
+      "Best Hair Cut Salon in Vadodara – Trendy Styles & Expert Care at Frenyz",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `<p>
                   When it comes to finding the
@@ -5048,7 +5020,7 @@ Book your next haircut with confidence and step out with a style that truly repr
                   appointment today and discover the perfect haircut that suits
                   your style.
                 </p>
-    `
+    `,
   },
   {
     id: 11,
@@ -5182,13 +5154,14 @@ Book your next haircut with confidence and step out with a style that truly repr
                   experience.
                 </p>
            
-    `
+    `,
   },
   {
     id: 10,
     date: "30 Sep, 2025",
     image: "./images/blog/f10.webp",
-    title: "Hair Salon vs Beauty Parlour in Vadodara: What’s the Difference & How to Pick the Best",
+    title:
+      "Hair Salon vs Beauty Parlour in Vadodara: What’s the Difference & How to Pick the Best",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>When searching for grooming and beauty services in Vadodara, you might wonder: should I go to a <strong>hair salon in Vadodara</strong> or a <strong>beauty parlour in Vadodara</strong>? While both offer styling and self-care services, understanding the difference can help you choose the right place for your needs.</p>
@@ -5243,13 +5216,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <h3>Book Your Appointment Today</h3>
       <p>Stop guessing whether to visit a <strong>hair salon in Vadodara</strong> or a <strong>beauty parlour in Baroda</strong>.</p>
       <p>Visit <strong>Frenyz Salon</strong> today and experience why we are considered the top choice for haircuts, beauty treatments, and complete grooming services in Vadodara.</p>
-    `
+    `,
   },
   {
     id: 9,
     date: "05 Oct, 2025",
     image: "./images/blog/f9.webp",
-    title: "Find a Beauty Parlour Near Me in Vadodara That Offers Top Hair Cuts & Complete Beauty Services",
+    title:
+      "Find a Beauty Parlour Near Me in Vadodara That Offers Top Hair Cuts & Complete Beauty Services",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Are you searching for a <strong>beauty parlour near me in Vadodara</strong>? Whether it’s for a stylish haircut, a relaxing spa treatment, or a complete makeover, finding the right <strong>hair salon in Vadodara</strong> can be overwhelming. With so many options, you need a salon that offers both expertise and a luxurious experience.</p>
@@ -5285,13 +5259,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <p>Whether it’s a quick haircut or a full beauty makeover, Frenyz ensures you leave feeling confident and refreshed.</p>
       <h3>Book Your Appointment Today</h3>
       <p>Stop searching for the <strong>best hair salon in Baroda</strong> or a reliable <strong>beauty parlour near me in Vadodara</strong>. Visit <strong>Frenyz Salon</strong> today and experience the top-notch haircuts, styling, and complete beauty services that make us the preferred choice for clients across Vadodara.</p>
-    `
+    `,
   },
   {
     id: 8,
     date: "08 Oct, 2025",
     image: "./images/blog/f8.webp",
-    title: "What Makes a Great Hair & Beauty Parlour in Vadodara: Tips + Top Picks (Including Frenyz)",
+    title:
+      "What Makes a Great Hair & Beauty Parlour in Vadodara: Tips + Top Picks (Including Frenyz)",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>When it comes to looking your best, choosing the right <strong>hair salon in Vadodara</strong> or <strong>beauty parlour in Vadodara</strong> is key. With countless options available, finding a salon that combines expertise, hygiene, and comfort can be challenging.</p>
@@ -5324,13 +5299,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <p>Whether you’re looking for the <strong>best hair cut in Vadodara</strong>, a trendy hairstyle, or a complete makeover, Frenyz ensures professional results and a luxurious salon experience.</p>
       <h3>Book Your Appointment at Frenyz Today</h3>
       <p>Stop searching for a <em>beauty parlour near me in Vadodara</em> or the <strong>best hair salon in Baroda</strong>. Visit <strong>Frenyz Salon</strong> today and discover why we’re the top choice for haircuts, styling, and full-service beauty treatments.</p>
-    `
+    `,
   },
   {
     id: 7,
     date: "12 Oct, 2025",
     image: "./images/blog/f7.webp",
-    title: "From Classic to Trendy: The Best Haircut Styles Available in a Beauty Parlour in Vadodara",
+    title:
+      "From Classic to Trendy: The Best Haircut Styles Available in a Beauty Parlour in Vadodara",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Finding the perfect haircut can be challenging, especially with so many <strong>beauty parlours in Vadodara</strong> and <strong>hair salons in Baroda</strong> offering different services. Whether you’re looking for a timeless style or a bold, trendy look, choosing the right <strong>salon in Vadodara</strong> can make all the difference.</p>
@@ -5366,13 +5342,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <p>When clients search for a <em>beauty parlour near me in Vadodara</em>, Frenyz stands out for exemplary service, hygiene, and expertise.</p>
       <h3>Book Your Appointment at Frenyz Salon</h3>
       <p>Ready to try a haircut that perfectly matches your style? Stop searching for <strong>hair salons in Vadodara</strong> or <strong>beauty parlours in Baroda</strong>. Visit <strong>Frenyz Salon</strong> today.</p>
-    `
+    `,
   },
   {
     id: 6,
     date: "15 Oct, 2025",
     image: "./images/blog/f6.webp",
-    title: "Top Haircuts in Vadodara: Where to Go, What to Ask For, and How Frenyz Sets the Standard",
+    title:
+      "Top Haircuts in Vadodara: Where to Go, What to Ask For, and How Frenyz Sets the Standard",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Looking for the <strong>best hair cut in Vadodara</strong>? Whether you want a trendy haircut, a professional style, or a complete makeover, choosing the right <strong>hair salon in Vadodara</strong> is crucial.</p>
@@ -5402,7 +5379,7 @@ Book your next haircut with confidence and step out with a style that truly repr
       </ul>
       <h3>Book Your Appointment Today</h3>
       <p>Stop searching for “<strong>hair salon in Vadodara</strong>” or “<strong>best hair salon in Baroda</strong>.” Visit <strong>Frenyz Salon</strong> today and experience why we’re the go-to destination for haircuts, styles, and beauty treatments in Vadodara.</p>
-    `
+    `,
   },
   {
     id: 5,
@@ -5440,13 +5417,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <p>With such variety, Frenyz ensures every visit is a complete pampering experience.</p>
       <h3>Book Your Appointment Today</h3>
       <p>Visit <strong>Frenyz Salon</strong> today and discover why we’re the top choice for hair, beauty, and grooming services in Vadodara.</p>
-    `
+    `,
   },
   {
     id: 4,
     date: "21 Oct, 2025",
     image: "./images/blog/f4.webp",
-    title: "Why Frenyz Beauty Parlour in Vadodara Is the Best Place to Get Hair & Beauty Services Near Me",
+    title:
+      "Why Frenyz Beauty Parlour in Vadodara Is the Best Place to Get Hair & Beauty Services Near Me",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Searching for a <strong>beauty parlour near me in Vadodara</strong> can feel overwhelming with so many options available. From hair salons in Vadodara to full-service beauty parlours in Baroda, how do you pick the right one for haircuts, styling, or beauty treatments?</p>
@@ -5472,13 +5450,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       </ul>
       <h3>Book Your Appointment Today</h3>
       <p>Visit Frenyz Salon today and experience why we’re the top choice for haircuts, beauty treatments, and grooming services.</p>
-    `
+    `,
   },
   {
     id: 3,
     date: "01 Aug, 2022",
     image: "./images/blog/f3.webp",
-    title: "Top 10 Beauty Parlours in Vadodara - Where to Get the Best Haircut Near You",
+    title:
+      "Top 10 Beauty Parlours in Vadodara - Where to Get the Best Haircut Near You",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Vadodara, also known as Baroda, is a city that blends tradition with modern lifestyle. And when it comes to grooming, styling, and self-care, people here want nothing but the best.</p>
@@ -5501,13 +5480,14 @@ Book your next haircut with confidence and step out with a style that truly repr
       <p>Your haircut defines your personality, and at Frenyz, we treat every style as an art. Whether you want a chic bob, a professional look, or a bold makeover, Frenyz delivers the best hair cut salon experience in Baroda.</p>
       <h3>Book your appointment at Frenyz Salon</h3>
       <p>Experience why it’s called the best hair & beauty salon in Vadodara.</p>
-    `
+    `,
   },
   {
     id: 2,
     date: "01 Aug, 2022",
     image: "./images/blog/f2.webp",
-    title: "How to Choose the Best Hair Salon in Baroda for Your Next Haircut or Beauty Treatment",
+    title:
+      "How to Choose the Best Hair Salon in Baroda for Your Next Haircut or Beauty Treatment",
     tags: ["Hair", "Makeup", "Skin", "Nails & Tattoos", "Academy"],
     content: `
       <p>Looking for the best hair salon in Baroda? Or maybe you’re typing <strong>“hair salon in Vadodara”</strong> or <strong>“beauty parlour in Vadodara”</strong> into Google right now. With so many options available, finding the right place for a stylish haircut or rejuvenating beauty treatment can be confusing.</p>
@@ -5531,6 +5511,6 @@ Book your next haircut with confidence and step out with a style that truly repr
       <h3>Visit Frenyz - The Best Hair Salon in Baroda</h3>
       <p>If you’re still searching for the best hair salon in Vadodara or a reliable beauty parlour near you in Baroda, look no further. Frenyz combines expertise, luxury, and personalized care to give you the ultimate salon experience.</p>
       <p><strong>Book your appointment today at Frenyz Salon</strong> and discover why we’re trusted as one of the top beauty destinations in the city.</p>
-    `
-  }
+    `,
+  },
 ];
