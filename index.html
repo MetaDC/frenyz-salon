@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -747,10 +747,18 @@
 
       <a
         class="lightbox-prev"
-        onclick="event.stopPropagation(); changeImage(-1)"
+        onclick="
+          event.stopPropagation();
+          changeImage(-1);
+        "
         >&#10094;</a
       >
-      <a class="lightbox-next" onclick="event.stopPropagation(); changeImage(1)"
+      <a
+        class="lightbox-next"
+        onclick="
+          event.stopPropagation();
+          changeImage(1);
+        "
         >&#10095;</a
       >
     </div>
@@ -1724,7 +1732,7 @@
                   "Content-Type": "application/json",
                 },
                 body: JSON.stringify(data),
-              }
+              },
             );
 
             if (!response.ok) {
@@ -1800,5 +1808,11 @@
         }
       });
     </script>
+    <script
+      src="https://embed.mylocalbusiness.io/widgets/production/latest/widgets.js"
+      data-my-widget="popup"
+      data-business-id="697495880a3d89238af72230"
+      data-location-id="69749602f9dc248bb0be14b1"
+    ></script>
   </body>
 </html>
