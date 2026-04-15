@@ -41,6 +41,17 @@ body {
   }
 }
 
+.blog-text ul {
+  list-style: disc !important;
+  margin-left: 20px !important;
+  padding-left: 20px !important;
+}
+
+.blog-text ul li {
+  display: list-item !important;
+  list-style: disc !important;
+}
+
 /* Common CSS */
 h1,
 h2,
