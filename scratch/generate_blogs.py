@@ -348,3 +348,14 @@ def main():
 
 if __name__ == '__main__':
     main()
+            after_grid = blog_html[blog_html.find('</div>\n      </div>\n    </section>'):]
+            
+        updated_blog_html = before_grid + "\n" + grid_content + "\n" + after_grid
+        with open(blog_html_path, 'w', encoding='utf-8') as f:
+            f.write(updated_blog_html)
+        print("Updated blog.html listing with August, September, and October blogs")
+    else:
+        print("Error: Could not find blog-grid div in blog.html")
+
+if __name__ == '__main__':
+    main()
